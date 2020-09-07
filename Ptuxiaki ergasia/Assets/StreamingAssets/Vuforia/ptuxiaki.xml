@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="Background" size="512.000000 291.987213" />
+    <ImageTarget name="scifi" size="100.000000 145.132736" />
+    <ImageTarget name="ratassasin" size="100.000000 144.812363" />
+    <ImageTarget name="herowarrior" size="100.000000 144.812363" />
+    <ImageTarget name="devil" size="100.000000 145.132736" />
+    <ImageTarget name="chestmonster" size="100.000000 144.812363" />
+    <ImageTarget name="biomecha" size="100.000000 144.812363" />
+    <ImageTarget name="versus-vs-fight-battle-screen-background_1017-23762" size="15.000000 8.554313" />
   </Tracking>
 </QCARConfig>
